@@ -4,13 +4,13 @@ namespace RentCars.Models;
 //3 - Crie a classe `Vehicle`
 public class Vehicle
 {
-    string Brand {get; set;} = "";
-    string Model {get; set;} = "";
-    decimal Price {get; set;}
-    FuelType fuel {get; set;}
-    int EngineCapacity {get; set;}
-    Color MainColor {get; set;}
-    int Year {get; set;}
-    double PricePerDay {get; set;}
-    bool IsRented {get; set;} = false;
+    public string Brand {get; set;} = "";
+    public string Model {get; set;} = "";
+    public decimal Price {get; set;}
+    public FuelType fuel {get; set;}
+    public int EngineCapacity {get; set;}
+    public Color MainColor {get; set;}
+    public int Year {get; set;}
+    public double PricePerDay {get; set;}
+    public bool IsRented {get; set;} = false;
 }
