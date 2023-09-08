@@ -1,13 +1,22 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## 🧐 Sobre
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<p align="left"> 
+O Rend Car é um projeto de natureza acadêmica dedicado ao desenvolvimento de um sistema de gerenciamento de aluguel de veículos. Este projeto visa aprimorar as habilidades em programação orientada a objetos, incluindo a criação de classes, a instância de objetos e o uso de tipos avançados.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## ⚒ Instalando <a name = "installing"></a>
+
+```bash
+# Clone o projeto
+$ git clone git@github.com:wesleymktd/project-rend-car.git
+# Acesse
+$ cd ./project-trybank/src
+# Instale as dependencias
+$ dotnet restore
+# Inicie o projeto
+dotnet run
+
+```
+
+## Principais tecnologias utilizadas:
+- C#;
+- .NET
